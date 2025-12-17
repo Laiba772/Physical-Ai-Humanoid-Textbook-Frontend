@@ -2,7 +2,7 @@
 import React, { useEffect, useMemo, useRef, useState } from "react";
 import clsx from "clsx";
 
-const BASE_URL = "http://localhost:8000"; // RAG Backend URL
+const BASE_URL = "https://physical-ai-textbook-backend-production.up.railway.app/"; // RAG Backend URL
 
 type Msg = { id: string; sender: "user" | "bot"; text: string; meta?: { hint?: string } };
 
