@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic-settings
+qdrant-client
+cohere
+openai # For OpenAI-compatible Gemini API
+beautifulsoup4
+httpx
+tenacity
