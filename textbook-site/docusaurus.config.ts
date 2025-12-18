@@ -42,7 +42,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/your-org/humanoid-textbook/tree/main/',
+            'https://github.com/Laiba772/Physical-Ai-Humanoid-Textbook-Frontend',
         },
         blog: false,
         theme: {
@@ -72,7 +72,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/Laiba772/Physical-Ai-Humanoid-Textbook',
+          href: 'https://github.com/Laiba772/Physical-Ai-Humanoid-Textbook-Frontend',
           label: 'GitHub',
           position: 'right',
         },
@@ -151,12 +151,12 @@ const config: Config = {
         },
         {
           label: '📂 GitHub Repo',
-          href: 'https://github.com/your-org/humanoid-textbook',
+          href: 'https://github.com/Laiba772/Physical-Ai-Humanoid-Textbook-Frontend',
           className: 'hover:underline hover:text-green-300 transition-colors',
         },
         {
           label: '📨 Contact / Support',
-          href: 'mailto:laiba.robostudy@gmail.com',
+          href: 'mailto:rajlaiba65@gmail.com',
           className: 'hover:underline hover:text-yellow-300 transition-colors',
         },
       ],
